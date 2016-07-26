@@ -32,7 +32,6 @@ c = {1,2,3}
 d = {2,3,4}
 print(c.union(d))
 
-
 # map, lambda
 title = ' map, lambda '
 print('\n' + '*' * 7 + title + '*' * 7)

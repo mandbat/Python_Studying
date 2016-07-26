@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/../WordChallenge/.idea/WordChallenge.iml" filepath="$PROJECT_DIR$/../WordChallenge/.idea/WordChallenge.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/book_01.iml" filepath="$PROJECT_DIR$/.idea/book_01.iml" />
+      <module fileurl="file://D:/PythonDev/WordChallenge/.idea/WordChallenge.iml" filepath="D:/PythonDev/WordChallenge/.idea/WordChallenge.iml" />
+      <module fileurl="file://D:/PythonDev/python_book/.idea/python_book.iml" filepath="D:/PythonDev/python_book/.idea/python_book.iml" />
     </modules>
   </component>
 </project>
